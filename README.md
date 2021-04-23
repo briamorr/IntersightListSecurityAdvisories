@@ -16,7 +16,7 @@ Modify SecretKey.txt to your API private key
 
 <b>Example Output:</b>
 
->python securityadvisory.py
+>#python securityadvisory.py
 
 >The following devices are affected by: cisco-sa-20190828-ucs-privescalation
 
